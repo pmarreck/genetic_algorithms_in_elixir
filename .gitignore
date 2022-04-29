@@ -24,3 +24,7 @@ genetic-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Environment files with potentially sensitive information
+.env
+.envrc
